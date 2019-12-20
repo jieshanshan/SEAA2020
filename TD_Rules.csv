@@ -1,5 +1,4 @@
-"ID
-";Type;Description
+ID;Type;Description
 20;Architectural/Design Debt > Complexity;Functions should not be too complex
 29;Architectural/Design Debt > Complexity;Cognitive Complexity of functions should not be too high
 40;Architectural/Design Debt > Complexity;Functions should not contain too many return statements
