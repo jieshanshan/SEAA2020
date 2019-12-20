@@ -18,7 +18,7 @@ ID;Type;Description
 42;Code Debt > Coding Convention;Function names should comply with a naming convention
 438;Code Debt > Coding Convention;Assigning to function call which doesn't return
 50;Code Debt > Long Line;Lines should not be too long
-46;Code Debt > Long Parameter List;Functions, methods and lambdas should not have too many parameters
+46;Code Debt > Long Parameter List;Functions and methods and lambdas should not have too many parameters
 13;Code Debt > Redundant Code;Jump statements should not be followed by other statements
 15;Code Debt > Redundant Code;Identical expressions should not be used on both sides of a binary operator
 25;Code Debt > Redundant Code;Redundant pairs of parentheses should be removed
