@@ -43,7 +43,7 @@ ID;Type;Description
 31;Defect Debt > Python 3;The exec statement should not be used
 52;Defect Debt > Python 3;Backticks should not be used
 432;Defect Debt > Python 3;Mixed tabs or spaces indentation
-439;Defect Debt > Python 3;Raising only allowed for classes, instances or strings
+439;Defect Debt > Python 3;Raising only allowed for classes or instances or strings
 49;Defect Debt > Syntax Error;Variables should not be self-assigned
 274;Defect Debt > Syntax Error;Calling of not callable
 281;Defect Debt > Syntax Error;Syntax error
