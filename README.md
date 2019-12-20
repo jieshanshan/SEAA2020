@@ -3,7 +3,7 @@
 
 This is a repository for the paper 
 
-**Investigating the Relationship between Co-occurring Technical Debt in Python Files**
+**Investigating the Relationship between Co-occurring Technical Debt**
 
 It contains the replication package of the study reported in the aforementioned paper.
 
