@@ -11,8 +11,8 @@ ID;Type;Description
 440;Architectural/Design Debt > Spaghetti Code;Bad except clauses order
 3;Code Debt > Coding Convention;__init__ should not return a value
 7;Code Debt > Coding Convention;Methods and field names should not differ only by capitalization
-16;Code Debt > Coding Convention;Sections of code should not be "commented out"
-23;Code Debt > Coding Convention;"\"should only be used as an escape character outside of raw strings
+16;Code Debt > Coding Convention;Sections of code should not be commented out
+23;Code Debt > Coding Convention;\ should only be used as an escape character outside of raw strings
 36;Code Debt > Coding Convention;A field should not duplicate the name of its containing class
 38;Code Debt > Coding Convention;Statements should be on separate lines
 42;Code Debt > Coding Convention;Function names should comply with a naming convention
@@ -25,7 +25,7 @@ ID;Type;Description
 45;Code Debt > Redundant Code;Nested blocks of code should not be left empty
 299;Defect Debt > Argument Parsing;Too many arguments for logging format string
 355;Defect Debt > Argument Parsing;Method has no argument
-363;Defect Debt > Argument Parsing;Method should have "self" as first argument
+363;Defect Debt > Argument Parsing;Method should have self as first argument
 368;Defect Debt > Argument Parsing;Not enough arguments for format string
 369;Defect Debt > Argument Parsing;Too many arguments for format string
 403;Defect Debt > Argument Parsing;Too few arguments
@@ -38,9 +38,9 @@ ID;Type;Description
 393;Defect Debt > Name Error;Using variable before assignment
 394;Defect Debt > Name Error;Undefined variable
 424;Defect Debt > Not implemented Error;NotImplemented raised - should raise NotImplementedError
-12;Defect Debt > Python 3;"""<>"" should not be used to test inequality"
-21;Defect Debt > Python 3;"The ""print"" statement should not be used"
-31;Defect Debt > Python 3;"The ""exec"" statement should not be used"
+12;Defect Debt > Python 3;<> should not be used to test inequality
+21;Defect Debt > Python 3;The print statement should not be used
+31;Defect Debt > Python 3;The exec statement should not be used
 52;Defect Debt > Python 3;Backticks should not be used
 432;Defect Debt > Python 3;Mixed tabs/spaces indentation
 439;Defect Debt > Python 3;Raising only allowed for classes, instances or strings
@@ -52,6 +52,6 @@ ID;Type;Description
 51;Defect Debt > System Error;Python parser failure
 273;Defect Debt > Value Error;Bad option value
 14;Documentation Debt;Docstrings should be defined
-54;Documentation Debt;"Track uses of ""FIXME"" tags"
+54;Documentation Debt;Track uses of FIXME tags
 57;Documentation Debt;Source files should have a sufficient density of comment lines
 56;Test Debt;Lines should have sufficient coverage by tests
