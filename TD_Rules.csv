@@ -42,12 +42,12 @@ ID;Type;Description
 21;Defect Debt > Python 3;The print statement should not be used
 31;Defect Debt > Python 3;The exec statement should not be used
 52;Defect Debt > Python 3;Backticks should not be used
-432;Defect Debt > Python 3;Mixed tabs/spaces indentation
+432;Defect Debt > Python 3;Mixed tabs or spaces indentation
 439;Defect Debt > Python 3;Raising only allowed for classes, instances or strings
 49;Defect Debt > Syntax Error;Variables should not be self-assigned
 274;Defect Debt > Syntax Error;Calling of not callable
 281;Defect Debt > Syntax Error;Syntax error
-328;Defect Debt > Syntax Error;Redefined function/class/method
+328;Defect Debt > Syntax Error;Redefined function or class or method
 364;Defect Debt > Syntax Error;Format string ends in middle of conversion specifier
 51;Defect Debt > System Error;Python parser failure
 273;Defect Debt > Value Error;Bad option value
