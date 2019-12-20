@@ -6,7 +6,7 @@ ID;Type;Description
 58;Architectural/Design Debt > Duplicated Code;Source files should not have any duplicated blocks
 47;Architectural/Design Debt > Long File;Files should not have too many lines of code
 24;Architectural/Design Debt > Spaghetti Code;Control flow statements should not be nested too deeply
-41;Architectural/Design Debt > Spaghetti Code;"Collapsible ""if"" statements should be merged"
+41;Architectural/Design Debt > Spaghetti Code;Collapsible if statements should be merged
 390;Architectural/Design Debt > Spaghetti Code;Method hidden by attribute of super class
 440;Architectural/Design Debt > Spaghetti Code;Bad except clauses order
 3;Code Debt > Coding Convention;__init__ should not return a value
