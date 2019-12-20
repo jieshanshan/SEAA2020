@@ -5,14 +5,14 @@ ID;Type;Description
 26;Architectural/Design Debt > Duplicated Code;Two branches in a conditional structure should not have exactly the same implementation
 58;Architectural/Design Debt > Duplicated Code;Source files should not have any duplicated blocks
 47;Architectural/Design Debt > Long File;Files should not have too many lines of code
-24;Architectural/Design Debt > Spaghetti Code;"Control flow statements ""if"", ""for"", ""while"", ""try"" and ""with"" should not be nested too deeply"
+24;Architectural/Design Debt > Spaghetti Code;Control flow statements "if", "for", "while", "try" and "with" should not be nested too deeply
 41;Architectural/Design Debt > Spaghetti Code;"Collapsible ""if"" statements should be merged"
 390;Architectural/Design Debt > Spaghetti Code;Method hidden by attribute of super class
 440;Architectural/Design Debt > Spaghetti Code;Bad except clauses order
 3;Code Debt > Coding Convention;__init__ should not return a value
 7;Code Debt > Coding Convention;Methods and field names should not differ only by capitalization
-16;Code Debt > Coding Convention;"Sections of code should not be ""commented out"""
-23;Code Debt > Coding Convention;"""\"" should only be used as an escape character outside of raw strings"
+16;Code Debt > Coding Convention;Sections of code should not be "commented out"
+23;Code Debt > Coding Convention;"\"should only be used as an escape character outside of raw strings
 36;Code Debt > Coding Convention;A field should not duplicate the name of its containing class
 38;Code Debt > Coding Convention;Statements should be on separate lines
 42;Code Debt > Coding Convention;Function names should comply with a naming convention
@@ -25,7 +25,7 @@ ID;Type;Description
 45;Code Debt > Redundant Code;Nested blocks of code should not be left empty
 299;Defect Debt > Argument Parsing;Too many arguments for logging format string
 355;Defect Debt > Argument Parsing;Method has no argument
-363;Defect Debt > Argument Parsing;"Method should have ""self"" as first argument"
+363;Defect Debt > Argument Parsing;Method should have "self" as first argument
 368;Defect Debt > Argument Parsing;Not enough arguments for format string
 369;Defect Debt > Argument Parsing;Too many arguments for format string
 403;Defect Debt > Argument Parsing;Too few arguments
