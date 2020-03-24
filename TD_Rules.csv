@@ -1,14 +1,14 @@
 ID,Type,Description
-20,Architectural/Design Debt > Complexity,Functions should not be too complex
-29,Architectural/Design Debt > Complexity,Cognitive Complexity of functions should not be too high
-40,Architectural/Design Debt > Complexity,Functions should not contain too many return statements
-26,Architectural/Design Debt > Duplicated Code,Two branches in a conditional structure should not have exactly the same implementation
-58,Architectural/Design Debt > Duplicated Code,Source files should not have any duplicated blocks
-47,Architectural/Design Debt > Long File,Files should not have too many lines of code
-24,Architectural/Design Debt > Spaghetti Code,Control flow statements should not be nested too deeply
-41,Architectural/Design Debt > Spaghetti Code,Collapsible if statements should be merged
-390,Architectural/Design Debt > Spaghetti Code,Method hidden by attribute of super class
-440,Architectural/Design Debt > Spaghetti Code,Bad except clauses order
+20,Design Debt > Complexity,Functions should not be too complex
+29,Design Debt > Complexity,Cognitive Complexity of functions should not be too high
+40,Design Debt > Complexity,Functions should not contain too many return statements
+26,Design Debt > Duplicated Code,Two branches in a conditional structure should not have exactly the same implementation
+58,Design Debt > Duplicated Code,Source files should not have any duplicated blocks
+47,Design Debt > Long File,Files should not have too many lines of code
+24,Design Debt > Spaghetti Code,Control flow statements should not be nested too deeply
+41,Design Debt > Spaghetti Code,Collapsible if statements should be merged
+390,Design Debt > Spaghetti Code,Method hidden by attribute of super class
+440,Design Debt > Spaghetti Code,Bad except clauses order
 3,Code Debt > Coding Convention,__init__ should not return a value
 7,Code Debt > Coding Convention,Methods and field names should not differ only by capitalization
 16,Code Debt > Coding Convention,Sections of code should not be commented out
