@@ -1,4 +1,4 @@
-# Python-CoOccur
+# SEAA_2020
 # About
 
 This is a repository for the paper 
