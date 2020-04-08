@@ -9,14 +9,13 @@ ID,Type,Description
 41,Design Debt > Spaghetti Code,Collapsible if statements should be merged
 390,Design Debt > Spaghetti Code,Method hidden by attribute of super class
 440,Design Debt > Spaghetti Code,Bad except clauses order
-3,Code Debt > Coding Convention,__init__ should not return a value
 7,Code Debt > Coding Convention,Methods and field names should not differ only by capitalization
 16,Code Debt > Coding Convention,Sections of code should not be commented out
 23,Code Debt > Coding Convention,\ should only be used as an escape character outside of raw strings
 36,Code Debt > Coding Convention,A field should not duplicate the name of its containing class
 38,Code Debt > Coding Convention,Statements should be on separate lines
 42,Code Debt > Coding Convention,Function names should comply with a naming convention
-438,Code Debt > Coding Convention,Assigning to function call which doesn't return
+394,Code Debt > Coding Convention,File should not use "import*"
 50,Code Debt > Long Line,Lines should not be too long
 46,Code Debt > Long Parameter List,Functions and methods and lambdas should not have too many parameters
 13,Code Debt > Redundant Code,Jump statements should not be followed by other statements
@@ -24,32 +23,19 @@ ID,Type,Description
 25,Code Debt > Redundant Code,Redundant pairs of parentheses should be removed
 45,Code Debt > Redundant Code,Nested blocks of code should not be left empty
 299,Defect Debt > Argument Parsing,Too many arguments for logging format string
-355,Defect Debt > Argument Parsing,Method has no argument
-363,Defect Debt > Argument Parsing,Method should have self as first argument
 368,Defect Debt > Argument Parsing,Not enough arguments for format string
 369,Defect Debt > Argument Parsing,Too many arguments for format string
 403,Defect Debt > Argument Parsing,Too few arguments
 411,Defect Debt > Argument Parsing,Bad first argument given to super
-414,Defect Debt > Argument Parsing,Passing unexpected keyword argument in function call
 418,Defect Debt > Argument Parsing,Too many positional arguments for function call
-276,Defect Debt > Name Error,Access of nonexistent member
-360,Defect Debt > Name Error,Undefined name
-389,Defect Debt > Name Error,Access to member before its definition
-393,Defect Debt > Name Error,Using variable before assignment
-394,Defect Debt > Name Error,Undefined variable
-424,Defect Debt > Not implemented Error,NotImplemented raised - should raise NotImplementedError
 12,Defect Debt > Python 3,<> should not be used to test inequality
 21,Defect Debt > Python 3,The print statement should not be used
 31,Defect Debt > Python 3,The exec statement should not be used
 52,Defect Debt > Python 3,Backticks should not be used
 432,Defect Debt > Python 3,Mixed tabs or spaces indentation
-439,Defect Debt > Python 3,Raising only allowed for classes or instances or strings
 49,Defect Debt > Syntax Error,Variables should not be self-assigned
 274,Defect Debt > Syntax Error,Calling of not callable
-281,Defect Debt > Syntax Error,Syntax error
 328,Defect Debt > Syntax Error,Redefined function or class or method
-364,Defect Debt > Syntax Error,Format string ends in middle of conversion specifier
-51,Defect Debt > System Error,Python parser failure
 273,Defect Debt > Value Error,Bad option value
 14,Documentation Debt,Docstrings should be defined
 54,Documentation Debt,Track uses of FIXME tags
